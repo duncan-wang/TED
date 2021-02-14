@@ -8,3 +8,9 @@ TED talks are video recordings of influential talks given at and hosted by TED C
 The goal of this project is to use various features associated with TED talks -- such as the topic, speaker, conference year, and length of the talk -- to predict the number of views a TED talk may receive. 
 
 
+**Data**
+
+The data we are using is scraped from the official TED Website and is available under the Creative Commons License. The link to the data can be found here: https://www.kaggle.com/rounakbanik/ted-talks
+
+
+
